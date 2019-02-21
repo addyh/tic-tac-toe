@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\addison\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\addison\git\TicTacToe\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_34d32aa0d2952979f0f6de76367b0a75e2476326.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\addison\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\addison\git\TicTacToe\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_34d32aa0d2952979f0f6de76367b0a75e2476326\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\addison\.android\build-cache\2f0a192f24757c8fe8901ec680529aaf09cb4656\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\addison\git\TicTacToe\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_72fd2154cfb93fb283d53ae4cc20761a8cb3c548\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\addison\.android\build-cache\b0df5203a1e7c48614a1816aa8deb166c0f38617\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\addison\git\TicTacToe\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_e89f3a1ea55249a301240db91d43802d10522af8\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\addison\.android\build-cache\b0df5203a1e7c48614a1816aa8deb166c0f38617\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\addison\git\TicTacToe\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_e89f3a1ea55249a301240db91d43802d10522af8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\addison\.android\build-cache\2f0a192f24757c8fe8901ec680529aaf09cb4656\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\addison\git\TicTacToe\app\build\intermediates\pre-dexed\debug\classes_72fd2154cfb93fb283d53ae4cc20761a8cb3c548.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\addison\.android\build-cache\fc1d88dd47feff1ad67f665cc04fd0f7bf45cc32\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\addison\git\TicTacToe\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ddb5552251fbc48d23e4ad95d8c0d89e0d55f62b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\addison\.android\build-cache\295664a0f5627164a1159a5768987d3a99f522f0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\addison\git\TicTacToe\app\build\intermediates\pre-dexed\debug\classes_94f84f7a8e13a1d8ddfb6d8969f9cb9f39e11f06.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\addison\.android\build-cache\81539ac74481a7b05aabe476c7cee32874c8ab16\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\addison\git\TicTacToe\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_a738eec97f0d8beaf2f4eecb94834f668c4f046e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\addison\.android\build-cache\b0df5203a1e7c48614a1816aa8deb166c0f38617\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\addison\git\TicTacToe\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e732699c7301fe2bb4069b90cba1fa033781e0d8\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\addison\.android\build-cache\b0df5203a1e7c48614a1816aa8deb166c0f38617\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\addison\git\TicTacToe\app\build\intermediates\pre-dexed\debug\classes_e732699c7301fe2bb4069b90cba1fa033781e0d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\addison\.android\build-cache\fc1d88dd47feff1ad67f665cc04fd0f7bf45cc32\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\addison\git\TicTacToe\app\build\intermediates\pre-dexed\debug\classes_ddb5552251fbc48d23e4ad95d8c0d89e0d55f62b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\addison\.android\build-cache\81539ac74481a7b05aabe476c7cee32874c8ab16\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\addison\git\TicTacToe\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_a738eec97f0d8beaf2f4eecb94834f668c4f046e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\addison\.android\build-cache\295664a0f5627164a1159a5768987d3a99f522f0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\addison\git\TicTacToe\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_94f84f7a8e13a1d8ddfb6d8969f9cb9f39e11f06\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\addison\.android\build-cache\97d8059d34191932800219fbd0974e819b82fb56\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\addison\git\TicTacToe\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7ade5d0d14f052e59262e3d50559852e9aacda61\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\addison\.android\build-cache\97d8059d34191932800219fbd0974e819b82fb56\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\addison\git\TicTacToe\app\build\intermediates\pre-dexed\debug\classes_7ade5d0d14f052e59262e3d50559852e9aacda61.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\addison\.android\build-cache\4632d44792c80680598eda57f65fb7dd9c054d5c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\addison\git\TicTacToe\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4972d5245f03e1b37c9974eafe6d4f12c29994b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\addison\.android\build-cache\2f0a192f24757c8fe8901ec680529aaf09cb4656\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\addison\git\TicTacToe\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_5681af75a853b72da1446c4713905a2a39f43d9d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\addison\.android\build-cache\81539ac74481a7b05aabe476c7cee32874c8ab16\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\addison\git\TicTacToe\app\build\intermediates\pre-dexed\debug\classes_f96b6ff1fd335c662fa811d3ad2f778ba442ca82.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\addison\.android\build-cache\0399bb9dfa4f2b9cc16ba50c22d5523b347901e4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\addison\git\TicTacToe\app\build\intermediates\pre-dexed\debug\classes_9b2e1d05612ee4b7a91e1739d44feda0d4677bde.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\addison\.android\build-cache\2f0a192f24757c8fe8901ec680529aaf09cb4656\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\addison\git\TicTacToe\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_5681af75a853b72da1446c4713905a2a39f43d9d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\addison\.android\build-cache\0399bb9dfa4f2b9cc16ba50c22d5523b347901e4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\addison\git\TicTacToe\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9b2e1d05612ee4b7a91e1739d44feda0d4677bde\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\addison\.android\build-cache\295664a0f5627164a1159a5768987d3a99f522f0\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\addison\git\TicTacToe\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_844513c768ae0a71df9f712b67770e2076ae188c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\addison\git\TicTacToe\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b0ecec31f5743e2477a9ae5ec610c5f26adc883f">
+        <dex dex="C:\Users\addison\git\TicTacToe\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_ed06fd7d0246f7c00843df82e74be14afd30fb1c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\addison\.android\build-cache\295664a0f5627164a1159a5768987d3a99f522f0\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\addison\git\TicTacToe\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_844513c768ae0a71df9f712b67770e2076ae188c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\addison\.android\build-cache\0399bb9dfa4f2b9cc16ba50c22d5523b347901e4\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\addison\git\TicTacToe\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_0c278ccb5c59e126610056b50ee83ff0a6a872e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\addison\.android\build-cache\0399bb9dfa4f2b9cc16ba50c22d5523b347901e4\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\addison\git\TicTacToe\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_0c278ccb5c59e126610056b50ee83ff0a6a872e9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\addison\.android\build-cache\81539ac74481a7b05aabe476c7cee32874c8ab16\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\addison\git\TicTacToe\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f96b6ff1fd335c662fa811d3ad2f778ba442ca82\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\addison\.android\build-cache\38f06802c25a28bd518c49ea929d8c1cbb586844\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\addison\git\TicTacToe\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b23d4110848f9dee1fe84ef161bfcd5e60842cd0\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\addison\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\addison\git\TicTacToe\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_831a25450957153ce04bf667ce246080ebcc9a1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\addison\.android\build-cache\a83928bc1d95a808bdaa824da5e2dfa74fee4e7e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\addison\git\TicTacToe\app\build\intermediates\pre-dexed\debug\classes_2c0c30699fe5ac0d4790e2deca4a7a6d0b38320b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\addison\.android\build-cache\4632d44792c80680598eda57f65fb7dd9c054d5c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\addison\git\TicTacToe\app\build\intermediates\pre-dexed\debug\classes_4972d5245f03e1b37c9974eafe6d4f12c29994b5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\addison\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\addison\git\TicTacToe\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_831a25450957153ce04bf667ce246080ebcc9a1c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\addison\.android\build-cache\38f06802c25a28bd518c49ea929d8c1cbb586844\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\addison\git\TicTacToe\app\build\intermediates\pre-dexed\debug\classes_b23d4110848f9dee1fe84ef161bfcd5e60842cd0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\addison\.android\build-cache\a83928bc1d95a808bdaa824da5e2dfa74fee4e7e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\addison\git\TicTacToe\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2c0c30699fe5ac0d4790e2deca4a7a6d0b38320b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\addison\git\TicTacToe\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\addison\git\TicTacToe\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_dd533bf681b87756de1683b2c4cb6a6dd6a7c692\classes.dex" />
+    </item>
+
+</items>
